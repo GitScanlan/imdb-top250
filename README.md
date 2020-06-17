@@ -5,7 +5,7 @@ we place all relative movie titles into a list, where we then call from. To chec
 movie from our database, we go through a simple loop to determine whether or not the movie is in our list. If not, we simply inform the
 user to enter a new movie title.
 
-What I was able to learn when developing this project is how to call for certain elements of a list without having to rely on a dictionary
+What I was able to learn when developing this project is how to call for certain elements of a list without having to rely on a dictionary.
 The overall goal isn't to call for a dictionary element to get our result (such as { movie : plot } ) but to use the different functions
 that are apart of the IMDbPY package.
 
